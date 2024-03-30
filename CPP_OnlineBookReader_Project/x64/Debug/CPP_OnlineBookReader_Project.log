@@ -1,0 +1,3 @@
+﻿  CPP_OnlineBookReader_Project.cpp
+C:\Users\msale\Desktop\CPP_OnlineBookReader_Project\CPP_OnlineBookReader_Project\CPP_OnlineBookReader_Project.cpp(38,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CPP_OnlineBookReader_Project.vcxproj -> C:\Users\msale\Desktop\CPP_OnlineBookReader_Project\x64\Debug\CPP_OnlineBookReader_Project.exe
